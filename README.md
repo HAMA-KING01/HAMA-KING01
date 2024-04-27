@@ -1,5 +1,5 @@
 
-![MasterHead](https://i.pinimg.com/originals/41/fe/5d/41fe5dbe30a570621741bb93163dcf7d.gif)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Moahmmed Hama salih</h1>
 <h3 align="center">A Junior Computer Engineering Student at Karabuk University</h3>
 <img align="right" alt"coding" width="400"src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif">
