@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed hama salih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed hama salih" height="30" width="40" /></a>
-<a href="https://instagram.com/_h_am_a" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://www.instagram.com/daichi_0h/)" alt="_h_am_a" height="30" width="40" /></a>
+<a href="https://www.instagram.com/daichi_0h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_h_am_a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
