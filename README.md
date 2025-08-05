@@ -1,7 +1,7 @@
 
 ![MasterHead](https://i.pinimg.com/originals/41/fe/5d/41fe5dbe30a570621741bb93163dcf7d.gif)
 <h1 align="center">Hi 👋, I'm Moahmmed Hama Salih</h1>
-<h3 align="center">A Computer Engineering Student at Karabuk University</h3>
+<h3 align="center">Computer Engineering</h3>
 <img align="right" alt"coding" width="400"src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hama-king01&label=Profile%20views&color=0e75b6&style=flat" alt="hama-king01" /> </p>
