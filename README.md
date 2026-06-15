@@ -11,7 +11,7 @@
 
 - 👨‍💻 I’m currently working on **Learning Web Development**
 
-- 📈 I’m currently learning Dotnet,**angular, C#**
+- 📈 I’m currently learning Dotnet,**Angular, C#**
 
 - 📨 How to reach me **hama.rafek@gmail.com**
 
